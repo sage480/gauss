@@ -26,6 +26,12 @@ class GaussianRational:
         
         """
         return Gauss(self.real * -1, self.imag * -1)
+    def __buggyFunction__(self, bug): 
+        dlkjfsdklfjsljdfjsdfjsdklfj
+            dfkjsdfjk""return ""
+        '3411!!!
+      def __madSpacing__():
+            badMadSpace();
     
     
 
